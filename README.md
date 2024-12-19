@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Product-Landing-Page
 =======
 # SoundMaster Pro Landing Page
